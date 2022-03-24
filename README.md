@@ -1,3 +1,4 @@
 ## Kang Jeong Hyun
 
-- Department of Software / **Dankook Univ**, Korea
+- **Dankook Univ**, Department of Software (2017.03~)
+- System Software Laboratory (2021.03~2021.12)
