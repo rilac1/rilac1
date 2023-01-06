@@ -5,7 +5,7 @@
 - `Dankook Univ.` Department of Software (2017.03 ~ 2023.02)
 - `System-Software Lab.` Research student (2021.03 ~ 2021.12)
 - `SW Maestro` 13th Mentee (2022.04 ~ 2022.11)
-- **`DaangnPay` Server Engineer of Account service Dep. (2023.01 ~ )**
+- **`DaangnPay` Server Engineer (2023.01 ~ )**
 
 
 ### Contact
